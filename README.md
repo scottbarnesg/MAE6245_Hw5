@@ -2,3 +2,4 @@
 Inverse Kinematics of Planar Manipulator
 
 ![GIF1](https://github.com/scottbarnesg/MAE6245_Hw5/blob/master/analyticalCircle.gif)   
+![GIF2](https://github.com/scottbarnesg/MAE6245_Hw5/blob/master/bruteCircle.gif)  
