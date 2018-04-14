@@ -1,5 +1,7 @@
 # MAE6245_Hw5
-Inverse Kinematics of Planar Manipulator
+Inverse Kinematics of Planar Manipulator  
 
-![GIF1](https://github.com/scottbarnesg/MAE6245_Hw5/blob/master/analyticalCircle.gif)   
+### Analytical Solution:
+![GIF1](https://github.com/scottbarnesg/MAE6245_Hw5/blob/master/analyticalCircle.gif)
+### Brute Force Solution:
 ![GIF2](https://github.com/scottbarnesg/MAE6245_Hw5/blob/master/bruteCircle.gif)  
